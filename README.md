@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a motivated Fullstack Developer with a focus on building applications using Next.js and React on the front end, and Node.js on the backend. I am continuously working to strengthen my skills and expertise in these technologies to deliver efficient, scalable, and dynamic web applications.
+I'm a motivated Fullstack Developer with a focus on building applications using Next.js and React on the front end, and Node.js, Django on the backend. I am continuously working to strengthen my skills and expertise in these technologies to deliver efficient, scalable, and dynamic web applications.
 
 
 ## 🌐 Socials:
