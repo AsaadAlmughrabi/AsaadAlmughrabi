@@ -1,5 +1,7 @@
+<img src="https://blog.bfurther.com/wp-content/uploads/2020/05/46479049-d8a9c400-c80b-11e8-92a1-89fc10701f4a.jpg" alt="Profile Image" width="100%" />
+
 # 💫 About Me:
- a motivated Fullstack Developer with a focus on building applications using Next.js and React on the front end, and Node.js, Django on the backend. I am continuously working to strengthen my skills and expertise in these technologies to deliver efficient, scalable, and dynamic web applications.
+A motivated Fullstack Developer with a focus on building applications using Next.js and React on the front end, and Node.js, Django on the backend. I am continuously working to strengthen my skills and expertise in these technologies to deliver efficient, scalable, and dynamic web applications.
 
 
 ## 🌐 Socials:
